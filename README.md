@@ -2,4 +2,4 @@
 
 ##That's my first proyect/repository
 
-Maths + Python = A world diferent
+Maths + Python = A diferent world
